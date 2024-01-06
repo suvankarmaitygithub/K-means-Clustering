@@ -1,1 +1,1 @@
-# K-means-Clustering
+Objective: To perform k-means clustering on a cricket dataset obtained from Kaggle to identify distinct clusters of players based on various performance metrics. The aim is to group similar players together and analyze the characteristics of each cluster to derive insights into player roles, strengths, weaknesses, or team compositions
